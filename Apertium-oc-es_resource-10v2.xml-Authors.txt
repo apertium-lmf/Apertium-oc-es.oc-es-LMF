@@ -1,0 +1,14 @@
+Copying and Author information
+
+Resource name: Occitan-Spanish LMF Apertium Bilingual dictionary
+Resource identifier: http://hdl.handle.net/10230/17124
+Licence: GPL
+
+Authors:
+
+() Universitat d'Alacant. Grup Transducens
+
+() Prompsit Language Engineering, S.L
+
+() Universitat Pompeu Fabra. Institut Universitari de Lingüística Aplicada (IULA)
+
